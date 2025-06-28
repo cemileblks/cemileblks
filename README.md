@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cemile Balkas
-- 👀 I’m interested in bioinformatics, software developmet or anything in between!
+- 👀 I’m interested in bioinformatics, data science and software developmet
 - 🌱 I’m currently doing my masters in Bioinformatics at the University of Edinbrugh, mainly working with Bash, R, and Python.
 - 💻 I previously worked on front-end web development projects, using HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on bioinformatics projects across the field, still exploring my interests and happy to learn new things!
+- 💞 I'm open to collaborating on bioinformatics projects across the field — I'm still exploring my interests and always excited to learn something new!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cemile-b-606084146/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new coffee shops in town! 
